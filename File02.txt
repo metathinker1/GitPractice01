@@ -1,3 +1,4 @@
 A simple test
 Add another line
 A third line
+Forth line
